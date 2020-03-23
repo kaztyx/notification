@@ -7,7 +7,7 @@ use Notification\Email;
 $novoEmail = new Email(2,
         'mail.ingraphics.com.br',
         'webmaster@ingraphics.com.br',
-        'evsepsusn@19web',
+        'gfgftrfrfrfdsds',
         'tls',
         '587',
         'valdir@ingraphics.com.br',
